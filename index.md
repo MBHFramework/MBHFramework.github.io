@@ -16,11 +16,11 @@ We recommend you install the MBHFramework with the Composer dependency manager.
 
 # Features
 
-* HTTP Router
+## HTTP Router
  
 Mbh provides a fast and powerful router that maps route callbacks to specific HTTP request methods and URIs. It supports parameters and pattern matching.
 
-* Dependency Injection
+## Dependency Injection
 
 Mbh supports dependency injection so you have complete control of your external tools. Use any Container-Interop container.
 
